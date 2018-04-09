@@ -22,7 +22,6 @@ ddd
 ddddddddd
 dddddddddd
 
-fix a bug
-fix another bug
+this is another update
 
 fix third bug in the issue
