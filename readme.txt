@@ -26,3 +26,6 @@ fix a bug
 fix another bug
 
 fix third bug in the issue
+
+test1
+test2
